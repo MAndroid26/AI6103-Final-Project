@@ -1,0 +1,4 @@
+Please use TransGAN Project.ipynb to run the training of the model.
+models_final.py include the transformer block, generator and discriminator.
+diff_aug.py include the basic data augmentation, same as torch build in functions. (from online source)
+fid_score.py and inception_score.py provide score calculation. (from online source)
